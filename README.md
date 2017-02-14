@@ -1,2 +1,2 @@
 # hello-world
-First repro for notes
+First repository for notes
